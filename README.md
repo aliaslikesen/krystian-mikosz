@@ -1,5 +1,15 @@
 # Hi, I'm Krystian Mikosz
 
+<p align="center">
+  <img src="dante2.png" alt="Krystian Mikosz" width="180" />
+</p>
+
+<h1 align="center">Hi, I'm Krystian Mikosz</h1>
+
+<p align="center">
+  Junior Developer / IT & Automation Specialist from Tarnów, Poland
+</p>
+
 Junior Developer / IT & Automation Specialist from Tarnów, Poland.
 
 I build:
