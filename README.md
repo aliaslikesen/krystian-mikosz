@@ -1,4 +1,4 @@
-# Hi, I'm Krystian Mikosz
+
 
 <p align="center">
   <img src="dante2.png" alt="Krystian Mikosz" width="180" />
@@ -10,7 +10,6 @@
   Junior Developer / IT & Automation Specialist from Tarnów, Poland
 </p>
 
-Junior Developer / IT & Automation Specialist from Tarnów, Poland.
 
 I build:
 - command-line tools in C
